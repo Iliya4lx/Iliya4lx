@@ -15,7 +15,7 @@ Here are just a few examples of my projects:
 
 ## Open Bullet Pro
 
-![Darkness](./LogoOpPro.png)
+![Darkness](./OrgLogo.png)
 
 - [App](https://github.com/Iliya4lx/Open-Bullet-Pro): The Cracking App
 - [Hub](https://github.com/Iliya4lx/Open-Bullet-Pro-Hub): Shup,Publish Config & Sell Config

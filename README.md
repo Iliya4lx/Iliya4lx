@@ -21,7 +21,7 @@ Here are just a few examples of my projects:
 - [Hub](https://github.com/Iliya4lx/Open-Bullet-Pro-Hub): Shup,Publish Config & Sell Config
 
 - [Tools](https://github.com/Iliya4lx/Open-Bullet-Pro-Tools): Create A Tool and Add to App
-- [Plugins](https://github.com/Iliya4lx/Open-Bullet-Pro-Plugins): Create A Tool and Add to App
+- [Plugins](https://github.com/Iliya4lx/Open-Bullet-Pro-Plugins): Create A Block/Plugin and Add to App
 
 - [Document](https://github.com/Iliya4lx/Open-Bullet-Pro-Document): Document
 

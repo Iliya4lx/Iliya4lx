@@ -32,7 +32,7 @@ Here are just a few examples of my projects:
 
 ## Checkers
 
-<img src="./Pictures/OrgLogo.png" width="150" height="150" style="display:block;text-align: center;">
+<img src="./Pictures/BulletLogo" width="150" height="150" style="display:block;text-align: center;">
 
 Empty.
 

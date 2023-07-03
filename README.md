@@ -4,10 +4,10 @@ My name is Iliya and I'm a Iran based programmer with a passion for coding.
 
 ## About Me
 
-- 🌱 I'm currently 16 years old.
-- 💻 I love programming and have a wide range of skills in Python, C#, JavaScript, CSS, HTML, and SQL Server.
-- ✨ I enjoy developing various projects and exploring new technologies.
-- 👯 I'm always open to collaboration and learning new things.
+- <img src="./Pictures/Info.png" width="50" height="50" style="display:block;text-align: center;"> I'm currently 16 years old.
+- <img src="./Pictures/Info.png" width="50" height="50" style="display:block;text-align: center;"> I love programming and have a wide range of skills in Python, C#, JavaScript, CSS, HTML, and SQL Server.
+- <img src="./Pictures/Info.png" width="50" height="50" style="display:block;text-align: center;"> I enjoy developing various projects and exploring new technologies.
+- <img src="./Pictures/Info.png" width="50" height="50" style="display:block;text-align: center;"> I'm always open to collaboration and learning new things.
 
 ## My Projects
 
@@ -22,6 +22,19 @@ Here are just a few examples of my projects:
 
 - [Tools](https://github.com/Iliya4lx/Open-Bullet-Pro-Tools): Create A Tool and Add to App
 - [Plugins](https://github.com/Iliya4lx/Open-Bullet-Pro-Plugins): Create A Tool and Add to App
+
+## Loli Sharp Language (L#)
+
+<img src="./Pictures/OrgLogo.png" width="150" height="150" style="display:block;text-align: center;">
+
+- [Compiler](https://github.com/Iliya4lx/Loli-Sharp-Compiler): Compiler
+- [Document](https://github.com/Iliya4lx/Loli-Sharp-Document): Document
+
+## Checkers
+
+<img src="./Pictures/OrgLogo.png" width="150" height="150" style="display:block;text-align: center;">
+
+Empty.
 
 Feel free to explore my repositories to discover more of my projects!
 

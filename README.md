@@ -4,7 +4,7 @@ My name is Iliya and I'm a Iran based programmer with a passion for coding.
 
 ## About Me
 
-- <img src="./Pictures/Info.png" width="10" height="10" style="display:block;text-align: center;"> I'm currently 16 years old.
+- <img src="./Pictures/Info.png" width="25" height="25" style="display:block;text-align: center;"> I'm currently 16 years old.
 - <img src="./Pictures/Info.png" width="50" height="50" style="display:block;text-align: center;"> I love programming and have a wide range of skills in Python, C#, JavaScript, CSS, HTML, and SQL Server.
 - <img src="./Pictures/Info.png" width="50" height="50" style="display:block;text-align: center;"> I enjoy developing various projects and exploring new technologies.
 - <img src="./Pictures/Info.png" width="50" height="50" style="display:block;text-align: center;"> I'm always open to collaboration and learning new things.

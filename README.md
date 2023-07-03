@@ -25,7 +25,7 @@ Here are just a few examples of my projects:
 
 ## Loli Sharp Language (L#)
 
-<img src="./Pictures/OrgLogo.png" width="150" height="150" style="display:block;text-align: center;">
+<img src="./Pictures/LoliSharp.png" width="150" height="150" style="display:block;text-align: center;">
 
 - [Compiler](https://github.com/Iliya4lx/Loli-Sharp-Compiler): Compiler
 - [Document](https://github.com/Iliya4lx/Loli-Sharp-Document): Document

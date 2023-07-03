@@ -23,6 +23,8 @@ Here are just a few examples of my projects:
 - [Tools](https://github.com/Iliya4lx/Open-Bullet-Pro-Tools): Create A Tool and Add to App
 - [Plugins](https://github.com/Iliya4lx/Open-Bullet-Pro-Plugins): Create A Tool and Add to App
 
+- [Plugins](https://github.com/Iliya4lx/Open-Bullet-Pro-Document): Document
+
 ## Loli Sharp Language (L#)
 
 <img src="./Pictures/LoliSharp.png" width="150" height="150" style="display:block;text-align: center;">

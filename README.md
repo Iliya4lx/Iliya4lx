@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi there! 👋
 
-<!--
-**Iliya4lx/Iliya4lx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Iliya and I'm a Iran based programmer with a passion for coding.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I'm currently 16 years old.
+- 💻 I love programming and have a wide range of skills in Python, C#, JavaScript, CSS, HTML, and SQL Server.
+- ✨ I enjoy developing various projects and exploring new technologies.
+- 👯 I'm always open to collaboration and learning new things.
+
+## My Projects
+
+Here are just a few examples of my projects:
+
+- [Project 1](link_to_project1): Short description of the project.
+- [Project 2](link_to_project2): Short description of the project.
+- [Project 3](link_to_project3): Short description of the project.
+
+Feel free to explore my repositories to discover more of my projects!
+
+![Darkness](./Darkness.png)
+
+### Darkness programmer!

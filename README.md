@@ -17,8 +17,8 @@ Here are just a few examples of my projects:
 
 <img src="./Pictures/OrgLogo.png" width="150" height="150" style="display:block;text-align: center;">
 
-- [App](https://github.com/Iliya4lx/Open-Bullet-Pro): The Cracking App
-- [Hub](https://github.com/Iliya4lx/Open-Bullet-Pro-Hub): Shup,Publish Config & Sell Config
+- [App](https://github.com/Iliya4lx/Open-Bullet-Pro): The Crack Tool App
+- [Hub](https://github.com/Iliya4lx/Open-Bullet-Pro-Hub): Shop,Publish Config & Sell Config
 
 - [Tools](https://github.com/Iliya4lx/Open-Bullet-Pro-Tools): Create A Tool and Add to App
 - [Plugins](https://github.com/Iliya4lx/Open-Bullet-Pro-Plugins): Create A Block/Plugin and Add to App

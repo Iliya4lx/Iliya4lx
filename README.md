@@ -8,32 +8,6 @@ My name is Iliya and I'm a Iran based programmer with a passion for coding.
 - ✨ I enjoy developing various projects and exploring new technologies.
 - 👯 I'm always open to collaboration and learning new things.
 
-## My Projects
-
-Here are just a few examples of my projects:
-
-## Open Bullet Pro
-
-<img src="./Pictures/OrgLogo.png" width="150" height="150" style="display:block;text-align: center;">
-
-- [App](https://github.com/Iliya4lx/Open-Bullet-Pro): The Crack Tool App
-- [Hub](https://github.com/Iliya4lx/Open-Bullet-Pro-Hub): Shop,Publish Config & Sell Config
-
-- [Tools](https://github.com/Iliya4lx/Open-Bullet-Pro-Tools): Create A Tool and Add to App
-- [Plugins](https://github.com/Iliya4lx/Open-Bullet-Pro-Plugins): Create A Block/Plugin and Add to App
-
-- [Document](https://github.com/Iliya4lx/Open-Bullet-Pro-Document): Document
-
-## Loli Sharp Language (L#)
-
-<img src="./Pictures/LoliSharp.png" width="150" height="150" style="display:block;text-align: center;">
-
-- [IDE](https://github.com/Iliya4lx/Loli-Sharp): Integrated Development Environment
-- [Compiler](https://github.com/Iliya4lx/Loli-Sharp-Compiler): Compiler
-- [Document](https://github.com/Iliya4lx/Loli-Sharp-Document): Document
-
-## Checkers
-
 <img src="./Pictures/BulletLogo.png" width="150" height="150" style="display:block;text-align: center;">
 
 Empty.
